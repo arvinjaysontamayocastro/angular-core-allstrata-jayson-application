@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAngularJayson", "CoreAngularJayson\CoreAngularJayson.csproj", "{113F5856-6664-4328-ADC2-39FF4CCD1373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113F5856-6664-4328-ADC2-39FF4CCD1373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113F5856-6664-4328-ADC2-39FF4CCD1373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113F5856-6664-4328-ADC2-39FF4CCD1373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113F5856-6664-4328-ADC2-39FF4CCD1373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1A8426-83C2-4D39-8AE2-2A4235D77C52}
+	EndGlobalSection
+EndGlobal

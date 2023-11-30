@@ -1,0 +1,9 @@
+<form class="form">
+  <div [formGroup]="moneyForm">
+    <div class="mb-3">
+      <label for="amount" class="form-label">Enter an amount</label>
+      <input type="number" name="amount" placeholder="Enter an amount" formControlName="amount">
+    </div>
+    <input type="button" value="Convert" class="btn btn-primary" [disabled]="!moneyForm.valid" (click)="onSubmit()" />
+  </div>
+</form>
